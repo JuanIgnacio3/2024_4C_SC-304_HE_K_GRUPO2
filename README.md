@@ -1,5 +1,5 @@
 # 2024_4C_SC-304_HE_K_GRUPO2
-### Este repositorio es para la creación del proyecto del grupo 3
+### Este repositorio es para la creación del proyecto del grupo 2
 ### Intrgrantes:
 ### Yarious Jafet Lazo Fonseca
 ### Esteban Leiva Solis
