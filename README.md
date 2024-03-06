@@ -1,4 +1,4 @@
-# 2024_4C_SC-304_HE_K_GRUPO3
+# 2024_4C_SC-304_HE_K_GRUPO2
 ### Este repositorio es para la creación del proyecto del grupo 3
 ### Intrgrantes:
 ### Yarious Jafet Lazo Fonseca
