@@ -11,10 +11,10 @@
 
 |                |Avance 1                          | Avance2                         | Avance3                         |
 |----------------|-------------------------------|-----------------------------|-----------------------------|
-|Yarious |`Creación del diagrama de clases`            | `Actualización del diagrama de clases, cración del prototipo funcional del programa` | -
-|Esteban |`Creación del preview de la interfaz`            | `Actualización del diagrama de clases, cración del prototipo funcional del programa` | -
-|Juan |`Creación del repositorio y documentación`| `Actualización del diagrama de clases, cración del prototipo funcional del programa` | -
-|Jeremy |`Creación del diagrama de clases`| `Actualización del diagrama de clases, cración del prototipo funcional del programa` | -
+|Yarious |`Creación del diagrama de clases`            | `Actualización del diagrama de clases, creación del prototipo funcional del programa` | -
+|Esteban |`Creación del preview de la interfaz`            | `Actualización del diagrama de clases, creación del prototipo funcional del programa` | -
+|Juan |`Creación del repositorio y documentación`| `Actualización del diagrama de clases, creación del prototipo funcional del programa` | -
+|Jeremy |`Creación del diagrama de clases`| `Actualización del diagrama de clases, creación del prototipo funcional del programa` | -
 
 > Librerias
 
